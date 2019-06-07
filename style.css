@@ -1,0 +1,35 @@
+.page-box {
+	margin: 60px;
+}
+
+.the-title {
+	margin: 20px 0px 10px 0px;
+	font-size: 63px;
+}
+
+.img-edit {
+	background-color: white;
+	width: 90% !important;
+	padding: 0px 3px 0px 3px !important;
+}
+
+.the-caption {
+	padding: 9px;
+	margin: 0px;
+}
+
+.first-part {
+	margin-bottom: 40px;
+}
+
+.below-img {
+	margin: 0px 250px 0px 250px;
+}
+
+.add-padding{
+	margin: 0px 0px 0px 39px;
+}
+
+.the-quote{
+	font-size: 26px;
+}
